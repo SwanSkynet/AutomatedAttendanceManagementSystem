@@ -155,7 +155,8 @@ export function Students() {
   };
   return (
     <div className="mt-12 mb-8 flex flex-col gap-12">
-      <Card>
+      Comming Soon
+      {/* <Card>
         <CardHeader variant="gradient" color="blue" className="mb-8 p-6">
           <Typography variant="h6" color="white">
             Create Teacher
@@ -280,7 +281,7 @@ export function Students() {
 
       {/* Listing All Teachers and their details */}
 
-      <Card>
+      {/* <Card>
         <CardHeader variant="gradient" color="blue" className="mb-8 p-6">
           <Typography variant="h6" color="white">
             All Teachers
@@ -376,6 +377,7 @@ export function Students() {
           </table>
         </CardBody>
       </Card>
+        */}
     </div>
   );
 }
