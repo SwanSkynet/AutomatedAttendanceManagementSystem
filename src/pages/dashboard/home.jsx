@@ -11,6 +11,8 @@ export function Home() {
         {dashboardCardsData.map(({ icon, title, value }) => (
           <StatisticsCard value={value} title={title} icon={icon} />
         ))}
+
+        <div>The dashboard data is currenty kept static for now, Upgrades on the wayyyyyyyyy.</div>
       </div>
     </div>
   );

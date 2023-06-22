@@ -2,6 +2,8 @@
 
 The Automated Attendance Management System is a web-based application that utilizes face recognition technology to manage attendance records. The system is built using ReactJS for the frontend, Firebase for the backend and database management, and Python Flask for face recognition capabilities.
 
+
+
 ## Demo admin Login
 
 user : admin@ams.com

@@ -83,17 +83,12 @@ export function SignIn() {
               Sign In
             </Button>
             <Typography variant="small" className="mt-6 flex justify-center">
-              Don't have an account?
-              <Link to="/auth/sign-up">
-                <Typography
-                  as="span"
-                  variant="small"
-                  color="blue"
-                  className="ml-1 font-bold"
-                >
-                  Sign up
-                </Typography>
-              </Link>
+            Demo admin Login<br/>
+            user : admin@ams.com<br/>
+            pass : password<br/>
+            Demo user Login<br/>
+            user : user@ams.com<br/>
+            pass : user@123<br/>   
             </Typography>
           </CardFooter>
         </Card>
