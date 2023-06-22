@@ -14,7 +14,7 @@ import { useUser } from "@/layouts";
 
 export function Sidenav({ brandImg, brandName, routes }) {
   const { user } = useUser();
-  const adminEmail = "swanathiyarath@gmail.com";
+  const adminEmail = "admin@ams.com";
   const [userRole, setUserRole] = useState("user");
 
   useEffect(() => {

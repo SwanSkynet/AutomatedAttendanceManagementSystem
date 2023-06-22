@@ -149,7 +149,7 @@ export function Configurator() {
           <div className="my-8 flex flex-col gap-4"></div>
           <a
             className="mx-auto flex items-center justify-center gap-2"
-            href="https://github.com/SwanSkynet/miniproject-frontend"
+            href="https://github.com/SwanSkynet/attendance-management"
             target="_blank"
             rel="noreferrer"
           >
@@ -183,7 +183,7 @@ export function Configurator() {
         </div>
         <div className="text-center">
           <Typography variant="h6" color="blue-gray">
-            This Project is made by Group 8
+            This Project is made by Swan
           </Typography>
           {/* <div className="mt-4 flex justify-center gap-2">
             <Button

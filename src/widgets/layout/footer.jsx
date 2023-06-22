@@ -41,13 +41,13 @@ export function Footer({ brandName, brandLink, routes }) {
 }
 
 Footer.defaultProps = {
-  brandName: "Group 8",
+  brandName: "Swan Skynet",
   brandLink: "/",
   routes: [
-    { name: "Group 8", path: "/" },
-    { name: "About Us", path: "/" },
+    { name: "Swan", path: "/" },
+    { name: "About Me", path: "https://github.com/SwanSkynet" },
     { name: "", path: "/" },
-    { name: "Our Team", path: "/" },
+    { name: "", path: "/" },
   ],
 };
 
